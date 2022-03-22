@@ -3,16 +3,16 @@
 /**
  * @link              https://jascha.wtf
  * @since             1.0
- * @package           Api_Header_Call_Remover
  *
  * @wordpress-plugin
  * Plugin Name:       Remove api.w.org header call
- * Plugin URI:        https://jascha.wtf/api-header-call-remover
+ * Plugin URI:        https://github.com/jaschaurbach/wp-api-header-call-remover
  * Description:       Removes the header call to api.w.org
  * Version:           1.0.0
  * Author:            Jascha Ezra Urbach
  * Author URI:        https://jascha.wtf
  * License:           GPL-2.0+
+ * Text Domain:       wp-api-header-call-remover
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * GitHub Plugin URI: https://github.com/jaschaurbach/wp-api-header-call-remover
  */
