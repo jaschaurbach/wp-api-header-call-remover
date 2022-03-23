@@ -21,5 +21,8 @@ This plugins removes the header call to api.w.org.
 
 == Changelog ==
 
+= 1.0.1 =
+* changed index.php to api-header-call-remover.php
+
 = 1.0 =
 * First release
