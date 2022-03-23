@@ -16,7 +16,7 @@ This plugins removes the header call to api.w.org.
 
 == Installation ==
 
-1. Upload `api-header-call-remover.php` to the `/wp-content/plugins/` directory
+1. Upload `wp-api-header-call-remover.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
